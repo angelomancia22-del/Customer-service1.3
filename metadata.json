@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Desk - Customer Service Management",
+  "description": "Enterprise customer service management platform for ticket queues, SLA resolution, agent rosters, and omnichannel customer communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
